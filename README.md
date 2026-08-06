@@ -1,4 +1,5 @@
--TR-
+   -TR-
+
 # ⚙️ Omnisys Endüstriyel AI - Local Edge RAG
 
 **Ağır Sanayide %100 Çevrimdışı, Güvenli ve Hızlı Arıza Çözümleme Asistanı**
@@ -27,7 +28,8 @@ Saha teknisyenlerinin binlerce sayfalık PDF kılavuzları içinde spesifik arı
 Bu proje tamamen yerel (Edge) donanımda çalışacak şekilde tasarlanmıştır.
 
 
--EN-
+
+  -EN-
 
 # ⚙️ Omnisys Industrial AI - Local Edge RAG
 
