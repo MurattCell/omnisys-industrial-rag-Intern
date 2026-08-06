@@ -24,10 +24,11 @@ Saha teknisyenlerinin binlerce sayfalık PDF kılavuzları içinde spesifik arı
 
 ## ⚙️ Kurulum ve Çalıştırma
 
-## ⚙️ Kurulum ve Çalıştırma Rehberi
-
 Bu proje tamamen yerel (Edge) donanımda çalışacak şekilde tasarlanmıştır.
+
+
 -EN-
+
 # ⚙️ Omnisys Industrial AI - Local Edge RAG
 
 **100% Offline, Secure, and Fast Fault Resolution Assistant for Heavy Industry**
