@@ -27,7 +27,7 @@ Saha teknisyenlerinin binlerce sayfalık PDF kılavuzları içinde spesifik arı
 
 Bu proje tamamen yerel (Edge) donanımda çalışacak şekilde tasarlanmıştır.
 
-
+https://github.com/user-attachments/assets/f9568e63-76be-4e5e-9536-f50c99ad2224
 
   -EN-
 
